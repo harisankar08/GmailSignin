@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1037039581807",
+    "project_id": "signin-171402"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037039581807:android:9884c8a731650e7e",
+        "android_client_info": {
+          "package_name": "com.example.harihercules.signin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037039581807-kcn6prlgggfilf9vg0q72i6112l9qa04.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.harihercules.signin",
+            "certificate_hash": "b8f080739e378b1c40639da577dc2e352be3ed27"
+          }
+        },
+        {
+          "client_id": "1037039581807-jkg45apu27rj143qa2n8ko5nm2euc56s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCIT5dNFpD8eYf3KLQP9uBINxFLvVqbX8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
